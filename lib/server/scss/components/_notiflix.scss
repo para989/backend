@@ -1,0 +1,20 @@
+.notiflix-confirm-buttons {
+  a:hover {
+    text-decoration: none !important;
+  }
+
+  .nx-confirm-button-ok {
+    background: $primary !important;
+  }
+}
+
+.notiflix-confirm-head {
+  h5 {
+    color: $headings-color !important;
+    border-bottom-color: $border-color !important;
+  }
+
+  div {
+    color: $body-color !important;
+  }
+}

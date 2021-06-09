@@ -1,0 +1,45 @@
+.promotions {
+  position: relative;
+
+  .promotions-background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 520px;
+  }
+
+  @include media-breakpoint-up(sm) {
+    .promotions-background {
+      height: 480px;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .promotions-background {
+      height: 550px;
+    }
+
+  }
+
+  @include media-breakpoint-up(lg) {
+    .promotions-background {
+      height: 640px;
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    .promotions-background {
+      height: 680px;
+    }
+  }
+
+  /*$grid-breakpoints: (
+          xs: 0,
+          sm: 500px,
+          md: 768px,
+          lg: 992px,
+          xl: 1280px,
+          xxl: 1400px
+  ) !default;*/
+}

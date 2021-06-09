@@ -1,0 +1,13 @@
+// --------------------------------------------------
+// Modal
+// --------------------------------------------------
+
+// Modal views
+.modal-view {
+  display: none;
+
+  &.active {
+    display: block;
+    animation: fade-in .25s ease-in-out;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "defaults": {
+    "renewOffset": "-45d",
+    "renewStagger": "3d",
+    "accountKeyType": "EC-P256",
+    "serverKeyType": "RSA-2048",
+    "subscriberEmail": "mail@fooddyshop.com"
+  },
+  "sites": []
+}

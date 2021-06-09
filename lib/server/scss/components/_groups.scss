@@ -1,0 +1,51 @@
+#groups {
+  z-index: $zindex-sticky;
+}
+
+@supports (display: grid) {
+
+  .groups {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "main main main";
+
+    /*@media screen and (max-width: 500px) {
+      grid-template-columns: 1fr;
+      grid-template-rows: 0.3fr 1fr auto 1fr;
+      grid-template-areas: "main";
+    }*/
+
+    main {
+      grid-area: main;
+      overflow: hidden;
+    }
+
+    .buttons {
+      position: relative;
+      white-space: nowrap;
+      user-select: none;
+      cursor: pointer;
+      width: 100%;
+      overflow-x: scroll;
+      overflow-y: hidden;
+      -ms-overflow-style: none; /* for Internet Explorer, Edge */
+      scrollbar-width: none; /* for Firefox */
+      &::-webkit-scrollbar {
+        display: none; /* for Chrome, Safari, and Opera */
+      }
+
+      scroll-behavior: smooth;
+
+      .btn {
+        margin-right: 0.5rem;
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+
+  }
+
+}
