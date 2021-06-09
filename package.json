@@ -1,7 +1,7 @@
 {
   "name": "@fooddyshop/backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for FooddyShop",
   "main": "index.js",
   "author": "FooddyShop <mail@fooddyshop.com> (https://fooddyshop.com)",
   "keywords": [],
@@ -10,7 +10,10 @@
     "url": "https://github.com/fooddyshop/backend/issues"
   },
   "homepage": "https://github.com/fooddyshop/backend",
-  "repository": "git@github.com:fooddyshop/backend.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fooddyshop/backend.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -78,5 +81,9 @@
     "nanoid": "^3.1.23",
     "urllib": "^2.37.1",
     "excel4node": "^1.7.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
