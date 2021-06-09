@@ -4,6 +4,7 @@ const path = require('path');
 const shelljs = require('shelljs');
 const semver = require('semver');
 
+
 async function deploy() {
 
     const packageJson = path.join(__dirname, 'package.json');
