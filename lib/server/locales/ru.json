@@ -135,8 +135,8 @@
   "choose-a-place": "Выбрать магазин?",
   "not-working": "Заказы временно не принимаются.",
   "already-here": "Вы уже тут.",
-  "date-format": "DD.MM.YYYY",
-  "date-and-time-format": "DD.MM.YYYY HH:mm",
+  "date-format": "dd.MM.yyyy",
+  "date-and-time-format": "dd.MM.yyyy HH:mm",
   "available-options": "Доступные варианты",
   "possible-modifiers": "Можно добавить",
   "selected-modifiers": "Ваш выбор",
@@ -199,5 +199,8 @@
   "video-not-found": "Видео не найдено.",
   "file-not-found": "Файл не найден.",
   "region-not-found": "Регион не найден.",
-  "country-not-found": "Страна не найдена."
+  "country-not-found": "Страна не найдена.",
+  "history-of-orders-empty": "Вы ещё ничего не заказывали.",
+  "history-of-bonuses-empty": "У вас пока нет истории бонусов.",
+  "history-of-balance-empty": "У вас пока нет истории баланса."
 }
