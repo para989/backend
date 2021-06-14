@@ -84,7 +84,8 @@
 		"nanoid": "^3.1.23",
 		"urllib": "^2.37.1",
 		"excel4node": "^1.7.2",
-		"date-fns": "^2.22.1"
+		"date-fns": "^2.22.1",
+        "for-async": "^1.0.1"
 	},
 	"devDependencies": {
 		"shelljs": "^0.8.4",
