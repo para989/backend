@@ -15,5 +15,6 @@ exports.start = (options) => {
     });
     global.STORAGE = _.get(options, 'storage');
     global.SITE = _.get(options, 'site', false);
+    global.LANG = _.get(options, 'lang', 'en');
     server.start();
 };
