@@ -59,7 +59,7 @@
   "order-number": "Номер заказа",
   "order-finished-title": "Заказ готов",
   "order-finished-message": "Ваш заказ №%s готов.",
-  "order-finished-address": " Ждем вас по адресу: %s, %s.",
+  "order-finished-address": " Ждем вас по адресу: %s.",
   "new-order-title": "Поступил заказ",
   "new-order-message": "Поступил новый заказ #%s.",
   "completed": "завершен",

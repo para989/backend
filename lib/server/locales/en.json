@@ -59,7 +59,7 @@
   "order-number": "Order number",
   "order-finished-title": "Order is ready",
   "order-finished-message": "Your order #%s is ready.",
-  "order-finished-address": " We are waiting for you at: %s, %s.",
+  "order-finished-address": " We are waiting for you at: %s.",
   "new-order-title": "Received an order",
   "new-order-message": "New order #%s arrived.",
   "completed": "completed",
