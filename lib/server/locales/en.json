@@ -191,5 +191,6 @@
   "country-not-found": "Country not found.",
   "history-of-orders-empty": "You haven't ordered anything yet.",
   "history-of-bonuses-empty": "You don't have any bonus history yet.",
-  "history-of-balance-empty": "You don't have any balance history yet."
+  "history-of-balance-empty": "You don't have any balance history yet.",
+  "copyright": "© %s %s. All rights reserved."
 }
