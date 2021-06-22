@@ -72,7 +72,7 @@
   "obtaining": "Способ получения",
   "obtaining-empty": "Выберите способ получения.",
   "delivery": "Доставка",
-  "pickup": "Самовывоз",
+  "pickup": "С собой",
   "inside": "На месте",
   "user-exists": "Такой пользователь уже есть",
   "domain-exists": "Такой домен уже есть",
@@ -193,5 +193,6 @@
   "history-of-orders-empty": "Вы ещё ничего не заказывали.",
   "history-of-bonuses-empty": "У вас пока нет истории бонусов.",
   "history-of-balance-empty": "У вас пока нет истории баланса.",
-  "copyright": "© %s %s. Все права защищены."
+  "copyright": "© %s %s. Все права защищены.",
+  "top": "Наверх"
 }
