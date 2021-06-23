@@ -190,9 +190,16 @@
   "region-not-found": "Регион не найден.",
   "country-not-found": "Страна не найдена.",
   "review-not-found": "Отзыв не найден.",
+  "support-not-found": "Сообщение не найдено.",
   "history-of-orders-empty": "Вы ещё ничего не заказывали.",
   "history-of-bonuses-empty": "У вас пока нет истории бонусов.",
   "history-of-balance-empty": "У вас пока нет истории баланса.",
   "copyright": "© %s %s. Все права защищены.",
-  "top": "Наверх"
+  "top": "Наверх",
+  "sincerely": "С уважением",
+  "password": "Пароль",
+  "code": "Код",
+  "code-title": "Проверочный код",
+  "code-message": "Для вас создан проверочный код, указанный ниже.",
+  "item": "Наименование"
 }
