@@ -4,8 +4,9 @@
   "email-placeholder": "Enter Email",
   "signature": "Sincerely",
   "sign-in": "Sign In",
-  "authorization": "Authorization",
   "authorization-message": "Enter your cell phone to sign in to your account or create a new one.",
+  "authorization-phone-message": "Enter your cell phone to sign in to your account or create a new one.",
+  "authorization-email-message": "Enter your email to sign in to your account or create a new one.",
   "password-placeholder": "Enter password",
   "sign-out": "Sign Out",
   "sign-out-message": "Do you really want to leave?",
@@ -111,7 +112,9 @@
   "account": "Account",
   "otp-title": "Login",
   "otp-code": "Enter the code",
-  "otp-another-phone": "Enter another phone",
+  "otp-call-message": "Within a few seconds, a robot will call you. Enter the last four digits of the incoming number:",
+  "otp-sms-message": "You will receive an SMS within a few minutes. Enter the received code:",
+  "otp-email-message": "You will receive an email within a few minutes. Enter the received code:",
   "moderation": "The app is under moderation and will be available soon.",
   "history-of-orders": "History of orders",
   "history-of-bonuses": "History of bonuses",
@@ -200,5 +203,6 @@
   "password": "Password",
   "code": "Code",
   "code-title": "Verification code",
-  "code-message": "The verification code below has been generated for you."
+  "code-message": "The verification code below has been generated for you.",
+  "cancel": "Cancel"
 }
