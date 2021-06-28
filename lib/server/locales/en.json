@@ -128,7 +128,7 @@
   "not-working": "Orders are temporarily not accepted.",
   "already-here": "You are already here.",
   "date-format": "MM/dd/yyyy",
-  "date-and-time-format": "MM/dd/yyyy hh:mm a..aa",
+  "date-and-time-format": "MM/dd/yyyy h:mm aa",
   "available-options": "Available options",
   "possible-modifiers": "Make a choice",
   "selected-modifiers": "Your choice",
@@ -204,5 +204,6 @@
   "code": "Code",
   "code-title": "Verification code",
   "code-message": "The verification code below has been generated for you.",
-  "cancel": "Cancel"
+  "cancel": "Cancel",
+  "season": "Season"
 }
