@@ -1,7 +1,7 @@
 const server = require('./lib/server');
 const _ = require('lodash');
 
-exports.start = (options) => {
+exports.start = async (options) => {
     const domain = _.get(options, 'domain');
     if (_.isEmpty(domain)) {
         console.error('Domain is required');
@@ -16,5 +16,6 @@ exports.start = (options) => {
     global.STORAGE = _.get(options, 'storage');
     global.SITE = _.get(options, 'site', false);
     global.LANG = _.get(options, 'lang', 'en');
-    server.start();
+    global.CURRENCY = _.get(options, 'currency', 'usd');
+    await server.start();
 };
