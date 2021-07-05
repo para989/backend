@@ -1,6 +1,6 @@
 {
 	"name": "@fooddyshop/backend",
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"description": "Backend for FooddyShop",
 	"main": "index.js",
 	"author": "FooddyShop <mail@fooddyshop.com> (https://fooddyshop.com)",
@@ -15,7 +15,7 @@
 		"url": "git+ssh://git@github.com/fooddyshop/backend.git"
 	},
 	"scripts": {
-		"deploy": "node deploy"
+		"build": "node build/build"
 	},
 	"directories": {
 		"lib": "lib"
@@ -88,6 +88,7 @@
 	},
 	"devDependencies": {
 		"shelljs": "^0.8.4",
-		"semver": "^7.3.5"
+		"semver": "^7.3.5",
+		"enquirer": "^2.3.6"
 	}
 }
