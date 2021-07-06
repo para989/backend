@@ -4,7 +4,7 @@
   "email-placeholder": "Enter Email",
   "signature": "Sincerely",
   "sign-in": "Sign In",
-  "authorization-message": "Enter your cell phone to sign in to your account or create a new one.",
+  "authorization": "Authorization",
   "authorization-phone-message": "Enter your cell phone to sign in to your account or create a new one.",
   "authorization-email-message": "Enter your email to sign in to your account or create a new one.",
   "password-placeholder": "Enter password",
