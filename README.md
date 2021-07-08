@@ -112,7 +112,7 @@ $ git clone git@github.com:fooddyshop/example.git
 $ cd example
 
 # Install dependencies
-$ npm install
+$ npm install --force
 
 # Run the app
 $ npm start
