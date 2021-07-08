@@ -35,29 +35,65 @@ Demo access:
 * Login: demo@fooddy.site
 * Password: 12345
 
-### Android application
+#### Android application
 
 <https://play.google.com/store/apps/details?id=site.fooddy.app>
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-    - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-    - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-    - Write distraction free.
-* Cross platform
-    - Windows, macOS and Linux ready.
+### Powerful CMS
+
+#### CMS for the online store FooddyShop contains:
+
+* Full content management (points of sale, product catalog, modifiers, ingredients, stickers, promotions, discounts)
+* Customizable skins and code editor (js, css)
+* Simple registration of customers via sms (twilio) or email
+* Special blocks with goods, promotions, banners
+* Separation of access rights to office sections
+* Ability to accept orders in the Office, by email, Telegram bot
+* Possibility to connect any payment systems
+* Possibility of translation into any language
+
+### Showcase
+
+#### Office allows you to edit and view::
+
+* Points of sales
+* Orders
+* Products
+* Modifiers
+* Ingredients
+* Stickers
+* Customers
+* Promotions
+* Subscriptions
+* Gifts
+* Promo codes
+* Cashback
+* Employees
+* Sales reports
+* Settings
+
+### Advanced product cards
+
+#### The engine of the FooddyShop online store has advanced product cards:
+
+* Convenient element editor with the ability to upload images
+* Any number of images attached to the product, changing their order, captions to images
+* Automatic image scaling, automatic image preview
+* Short and full description of the product, a set of parameters and properties
+* Multiple prices for one product
+* Modifications of goods (by color, size, quantity in a package, etc.)
+* Ability to insert video into product description
+  
+### Customizable shopping cart
+
+#### In the CMS of the online store on FooddyShop, you can customize the cart as you want:
+
+* Setting up the receiving method: inside, take away, delivery
+* Setting up a payment method: Apple Pay, Google Pay, PayPal, Stripe, Cash, POS and others
+* Track your order status
+* Additional fields on the checkout page (checkboxes, drop-down lists, text fields)
 
 ## How To Use
 
@@ -92,4 +128,4 @@ If you need a professional server setup, write to us: <mail@fooddyshop.com>.
 
 ## License
 
-MIT
+ISC
