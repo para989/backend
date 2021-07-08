@@ -1,1 +1,3 @@
-# Backend for FooddyShop
+# FooddyShop eCommerce CMS
+
+	
