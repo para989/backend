@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
@@ -21,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/fooddyshop/backend/main/site.gif)
 
 ## Key Features
 
