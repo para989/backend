@@ -43,7 +43,7 @@ Demo access:
 
 ### Powerful CMS
 
-#### CMS for the online store FooddyShop contains:
+CMS for the online store FooddyShop contains:
 
 * Full content management (points of sale, product catalog, modifiers, ingredients, stickers, promotions, discounts)
 * Customizable skins and code editor (js, css)
@@ -54,9 +54,9 @@ Demo access:
 * Possibility to connect any payment systems
 * Possibility of translation into any language
 
-### Showcase
+### Office
 
-#### Office allows you to edit and view::
+Office allows you to edit and view:
 
 * Points of sales
 * Orders
@@ -76,7 +76,7 @@ Demo access:
 
 ### Advanced product cards
 
-#### The engine of the FooddyShop online store has advanced product cards:
+The engine of the FooddyShop online store has advanced product cards:
 
 * Convenient element editor with the ability to upload images
 * Any number of images attached to the product, changing their order, captions to images
@@ -88,7 +88,7 @@ Demo access:
   
 ### Customizable shopping cart
 
-#### In the CMS of the online store on FooddyShop, you can customize the cart as you want:
+In the CMS of the online store on FooddyShop, you can customize the cart as you want:
 
 * Setting up the receiving method: inside, take away, delivery
 * Setting up a payment method: Apple Pay, Google Pay, PayPal, Stripe, Cash, POS and others
