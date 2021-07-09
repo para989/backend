@@ -205,5 +205,10 @@
   "code-title": "Verification code",
   "code-message": "The verification code below has been generated for you.",
   "cancel": "Cancel",
-  "season": "Season"
+  "season": "Season",
+  "try-later": "Try later",
+  "app": "Application",
+  "site": "Website",
+  "office": "Website",
+  "source": "Source"
 }
