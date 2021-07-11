@@ -14,5 +14,6 @@ exports.start = async (options) => {
     global.SITE = _.get(options, 'site', false);
     global.LANG = _.get(options, 'lang', 'en');
     global.CURRENCY = _.get(options, 'currency', 'usd');
+    global.SEVICES = _.get(options, 'services');
     await server.start();
 };
