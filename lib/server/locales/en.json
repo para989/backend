@@ -210,5 +210,9 @@
   "app": "Application",
   "site": "Website",
   "office": "Website",
-  "source": "Source"
+  "source": "Source",
+  "checklist-not-found": "Checklist not found.",
+  "inspection-not-found": "Inspection not found.",
+  "no-access": "You do not have access.",
+  "unauthorized": "Unauthorized."
 }
