@@ -215,5 +215,6 @@
   "checklist-not-found": "Чек-лист не найден.",
   "inspection-not-found": "Проверка не найдена.",
   "no-access": "У вас нет доступа.",
-  "unauthorized": "Авторизуйтесь."
+  "unauthorized": "Авторизуйтесь.",
+  "notification-not-found": "Notification not found."
 }
