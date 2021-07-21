@@ -1,6 +1,6 @@
 {
 	"name": "@fooddyshop/backend",
-	"version": "1.0.42",
+	"version": "1.0.43",
 	"description": "Backend for FooddyShop",
 	"main": "index.js",
 	"author": "FooddyShop <mail@fooddyshop.com> (https://fooddyshop.com)",
