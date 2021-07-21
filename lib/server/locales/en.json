@@ -215,5 +215,10 @@
   "inspection-not-found": "Inspection not found.",
   "no-access": "You do not have access.",
   "unauthorized": "Unauthorized.",
-  "notification-not-found": "Рассылка не найдена."
+  "notification-not-found": "Рассылка не найдена.",
+  "onesignal-welcome-notification-title": "Welcome!",
+  "onesignal-welcome-notification-message": "Thanks for subscribing!",
+  "onesignal-prompt-options-action-message": "We'd like to show you notifications for the latest news and updates.",
+  "onesignal-prompt-options-accept-button-text": "ALLOW",
+  "onesignal-prompt-options-cancel-button-text": "NO THANKS"
 }
