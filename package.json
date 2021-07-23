@@ -100,7 +100,8 @@
 		"excel4node": "^1.7.2",
 		"date-fns": "^2.22.1",
 		"for-async": "^1.0.1",
-		"twilio": "^3.64.0"
+		"twilio": "^3.64.0",
+		"cookie-parser": "^1.4.5"
 	},
 	"devDependencies": {
 		"shelljs": "^0.8.4",
