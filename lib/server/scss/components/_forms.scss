@@ -12,10 +12,13 @@
   cursor: not-allowed;
 }
 
+textarea.form-control.rounded-pill {
+  border-radius: 1rem * 1.375 !important;
+}
 
 // Labels
 
-/*.form-label-sm {
+.form-label-sm {
   padding-left: $input-padding-x-sm;
 }
 
@@ -25,7 +28,7 @@
 
 .form-label-lg {
   padding-left: $input-padding-x-lg;
-}*/
+}
 
 .form-check-label {
   font-size: $form-check-label-font-size;
@@ -298,6 +301,10 @@ input[type="search"]::-webkit-search-results-decoration {
   background-color: $input-bg;
   text-align: center;
   cursor: pointer;
+
+  &.rounded-pill {
+    border-radius: 1rem * 1.375 !important;
+  }
 
   .file-drop-input {
     display: block;
