@@ -221,5 +221,12 @@
   "onesignal-welcome-notification-message": "Теперь вы будете получать оповещения!",
   "onesignal-prompt-options-action-message": "Включите уведомления, чтобы следить за статусом заказа и участвовать в наших акциях.",
   "onesignal-prompt-options-accept-button-text": "ВКЛЮЧИТЬ",
-  "onesignal-prompt-options-cancel-button-text": "ПОЗЖЕ"
+  "onesignal-prompt-options-cancel-button-text": "ПОЗЖЕ",
+  "drag-and-drop": "Перетащите сюда фото, чтобы загрузить",
+  "or-select-file": "Или выберите файл",
+  "leave-review": "Оставьте отзыв",
+  "review": "Отзыв",
+  "send": "Отправить",
+  "rating": "Оценка",
+  "photo": "Фото"
 }

@@ -220,5 +220,12 @@
   "onesignal-welcome-notification-message": "Thanks for subscribing!",
   "onesignal-prompt-options-action-message": "We'd like to show you notifications for the latest news and updates.",
   "onesignal-prompt-options-accept-button-text": "ALLOW",
-  "onesignal-prompt-options-cancel-button-text": "NO THANKS"
+  "onesignal-prompt-options-cancel-button-text": "NO THANKS",
+  "drag-and-drop": "Drag and drop here to upload",
+  "or-select-file": "Or select file",
+  "leave-review": "Leave a review",
+  "review": "Review",
+  "send": "Send",
+  "rating": "Rating",
+  "photo": "Photo"
 }
