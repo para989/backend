@@ -71,6 +71,7 @@ Office allows you to edit and view:
 * Gifts
 * Promo codes
 * Cashback
+* Reviews
 * Employees
 * Sales reports
 * Settings
