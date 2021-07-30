@@ -66,6 +66,7 @@ Office allows you to edit and view:
 * Stickers
 * Customers
 * Promotions
+* Notifications
 * Subscriptions
 * Gifts
 * Promo codes
