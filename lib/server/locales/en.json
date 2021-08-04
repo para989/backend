@@ -215,7 +215,7 @@
   "inspection-not-found": "Inspection not found.",
   "no-access": "You do not have access.",
   "unauthorized": "Unauthorized.",
-  "notification-not-found": "Рассылка не найдена.",
+  "notification-not-found": "Notification not found.",
   "onesignal-welcome-notification-title": "Welcome!",
   "onesignal-welcome-notification-message": "Thanks for subscribing!",
   "onesignal-prompt-options-action-message": "We'd like to show you notifications for the latest news and updates.",
@@ -227,5 +227,6 @@
   "review": "Review",
   "send": "Send",
   "rating": "Rating",
-  "photo": "Photo"
+  "photo": "Photo",
+  "form-not-found": "Form not found."
 }

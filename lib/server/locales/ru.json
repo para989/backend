@@ -216,7 +216,7 @@
   "inspection-not-found": "Проверка не найдена.",
   "no-access": "У вас нет доступа.",
   "unauthorized": "Авторизуйтесь.",
-  "notification-not-found": "Notification not found.",
+  "notification-not-found": "Рассылка не найдена.",
   "onesignal-welcome-notification-title": "Спасибо!",
   "onesignal-welcome-notification-message": "Теперь вы будете получать оповещения!",
   "onesignal-prompt-options-action-message": "Включите уведомления, чтобы следить за статусом заказа и участвовать в наших акциях.",
@@ -228,5 +228,6 @@
   "review": "Отзыв",
   "send": "Отправить",
   "rating": "Оценка",
-  "photo": "Фото"
+  "photo": "Фото",
+  "form-not-found": "Форма не найдена."
 }
