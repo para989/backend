@@ -1,6 +1,6 @@
 {
 	"name": "@fooddyshop/backend",
-	"version": "1.0.46",
+	"version": "1.0.47",
 	"description": "Backend for FooddyShop",
 	"main": "index.js",
 	"author": "FooddyShop <mail@fooddyshop.com> (https://fooddyshop.com)",
@@ -102,7 +102,7 @@
 		"for-async": "^1.0.1",
 		"twilio": "^3.64.0",
 		"cookie-parser": "^1.4.5",
-        "csv-parse": "^4.16.0"
+		"csv-parse": "^4.16.0"
 	},
 	"devDependencies": {
 		"shelljs": "^0.8.4",

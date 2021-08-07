@@ -4,28 +4,35 @@
  */
 
 /*!
-  * @intlify/core-base v9.1.6
+  * @intlify/core-base v9.1.7
   * (c) 2021 kazuya kawaguchi
   * Released under the MIT License.
   */
 
 /*!
-  * @intlify/devtools-if v9.1.6
+  * @intlify/devtools-if v9.1.7
   * (c) 2021 kazuya kawaguchi
   * Released under the MIT License.
   */
 
 /*!
-  * @intlify/runtime v9.1.6
+  * @intlify/runtime v9.1.7
   * (c) 2021 kazuya kawaguchi
   * Released under the MIT License.
   */
 
 /*!
-  * @intlify/vue-devtools v9.1.6
+  * @intlify/vue-devtools v9.1.7
   * (c) 2021 kazuya kawaguchi
   * Released under the MIT License.
   */
+
+/*!
+ * Chart.js v3.5.0
+ * https://www.chartjs.org
+ * (c) 2021 Chart.js Contributors
+ * Released under the MIT License
+ */
 
 /*!
  * Quill Editor v1.3.7
@@ -35,7 +42,7 @@
  */
 
 /*!
- * vuex v4.0.1
+ * vuex v4.0.2
  * (c) 2021 Evan You
  * @license MIT
  */
