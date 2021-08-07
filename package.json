@@ -101,7 +101,8 @@
 		"date-fns": "^2.22.1",
 		"for-async": "^1.0.1",
 		"twilio": "^3.64.0",
-		"cookie-parser": "^1.4.5"
+		"cookie-parser": "^1.4.5",
+        "csv-parse": "^4.16.0"
 	},
 	"devDependencies": {
 		"shelljs": "^0.8.4",
