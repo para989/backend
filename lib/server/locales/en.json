@@ -229,5 +229,6 @@
   "send": "Send",
   "rating": "Rating",
   "photo": "Photo",
-  "form-not-found": "Form not found."
+  "form-not-found": "Form not found.",
+  "brand-not-found": "Brand not found."
 }
