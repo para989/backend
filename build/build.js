@@ -26,6 +26,7 @@ async function build() {
     if (buildOffice) {
         shelljs.cd(path.join(dir, '..', 'office'));
         shelljs.exec('npm run build');
+
     }
 
     if (buildSite) {
