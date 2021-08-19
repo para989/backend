@@ -231,5 +231,7 @@
   "rating": "Оценка",
   "photo": "Фото",
   "form-not-found": "Форма не найдена.",
-  "brand-not-found": "Бренд не найден."
+  "brand-not-found": "Бренд не найден.",
+  "wishes": "Пожелания",
+  "desired-time": "Желаемое время"
 }

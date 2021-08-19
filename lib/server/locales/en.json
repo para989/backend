@@ -230,5 +230,7 @@
   "rating": "Rating",
   "photo": "Photo",
   "form-not-found": "Form not found.",
-  "brand-not-found": "Brand not found."
+  "brand-not-found": "Brand not found.",
+  "wishes": "Wishes",
+  "desired-time": "Desired time"
 }
