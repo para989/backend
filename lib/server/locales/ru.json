@@ -234,6 +234,8 @@
   "brand-not-found": "Бренд не найден.",
   "wishes": "Пожелания",
   "desired-time": "Желаемое время",
-  "mystery-shoppers-title": "Тайный покупатель",
-  "mystery-shoppers-message": "Теперь вы наш тайный покупатель. С нетерпение ждём вашей оценки!"
+  "mystery-shopper-title": "Тайный покупатель",
+  "mystery-shopper-message": "Теперь вы наш тайный покупатель. С нетерпение ждём вашей оценки!",
+  "mystery-shopper-pending": "Ваша заявка находится на рассмотрении, ожидайте.",
+  "function-disabled": "Функция отключена."
 }

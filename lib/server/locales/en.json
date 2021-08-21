@@ -233,6 +233,8 @@
   "brand-not-found": "Brand not found.",
   "wishes": "Wishes",
   "desired-time": "Desired time",
-  "mystery-shoppers-title": "Mystery Shopper",
-  "mystery-shoppers-message": "You are now our mystery shopper. We look forward to your assessment!"
+  "mystery-shopper-title": "Mystery Shopper",
+  "mystery-shopper-message": "You are now our mystery shopper. We look forward to your assessment!",
+  "mystery-shopper-pending": "Your application is pending, please wait.",
+  "function-disabled": "The function is disabled."
 }
