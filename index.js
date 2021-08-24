@@ -17,5 +17,6 @@ exports.start = async (options) => {
     global.SEVICES = _.get(options, 'services');
     global.DELIVERY = _.get(options, 'delivery', true);
     global.BRANDS = _.get(options, 'brands', true);
+    global.TABLES = _.get(options, 'tables', true);
     await server.start();
 };
