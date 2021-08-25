@@ -233,10 +233,12 @@
   "form-not-found": "Форма не найдена.",
   "brand-not-found": "Бренд не найден.",
   "table-not-found": "Стол не найден.",
+  "area-not-found": "Область не найдена.",
   "wishes": "Пожелания",
   "desired-time": "Желаемое время",
   "mystery-shopper-title": "Тайный покупатель",
   "mystery-shopper-message": "Теперь вы наш тайный покупатель. С нетерпение ждём вашей оценки!",
   "mystery-shopper-pending": "Ваша заявка находится на рассмотрении, ожидайте.",
-  "function-disabled": "Функция отключена."
+  "function-disabled": "Функция отключена.",
+  "untitled": "Без названия"
 }
