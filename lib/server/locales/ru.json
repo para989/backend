@@ -80,6 +80,7 @@
   "payment-method-exists": "Такой способ оплаты уже есть",
   "payment-method-empty": "Выберите способ оплаты.",
   "customer-exists": "Такой пользователь уже есть",
+  "purchase-exists": "Такая покупка уже есть",
   "login-block": "Аккаунт заблокирован на несколько минут",
   "incorrect-password": "Указан неверный пароль.",
   "incorrect-code": "Неверный код",

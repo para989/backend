@@ -80,6 +80,7 @@
   "payment-method-exists": "This payment method already exists.",
   "payment-method-empty": "Select a payment method.",
   "customer-exists": "We already have such a customer.",
+  "purchase-exists": "This purchase already exists.",
   "login-block": "The account has been blocked for a few minutes.",
   "incorrect-password": "Invalid password specified.",
   "incorrect-code": "Incorrect code",
