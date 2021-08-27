@@ -81,6 +81,7 @@
   "payment-method-empty": "Выберите способ оплаты.",
   "customer-exists": "Такой пользователь уже есть",
   "purchase-exists": "Такая покупка уже есть",
+  "role-exists": "Такая роль уже есть",
   "login-block": "Аккаунт заблокирован на несколько минут",
   "incorrect-password": "Указан неверный пароль.",
   "incorrect-code": "Неверный код",
@@ -235,11 +236,16 @@
   "brand-not-found": "Бренд не найден.",
   "table-not-found": "Стол не найден.",
   "area-not-found": "Область не найдена.",
+  "role-not-found": "Роль не найдена.",
   "wishes": "Пожелания",
   "desired-time": "Желаемое время",
   "mystery-shopper-title": "Тайный покупатель",
   "mystery-shopper-message": "Теперь вы наш тайный покупатель. С нетерпение ждём вашей оценки!",
   "mystery-shopper-pending": "Ваша заявка находится на рассмотрении, ожидайте.",
   "function-disabled": "Функция отключена.",
-  "untitled": "Без названия"
+  "untitled": "Без названия",
+  "role-is-used": "Роль используется.",
+  "admin": "Администратор",
+  "manager": "Менеджер",
+  "operator": "Оператор"
 }
