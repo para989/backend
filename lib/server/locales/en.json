@@ -246,5 +246,6 @@
   "role-is-used": "The role is being used.",
   "admin": "Admin",
   "manager": "Manager",
-  "operator": "Operator"
+  "operator": "Operator",
+  "nothing-found": "Nothing found."
 }

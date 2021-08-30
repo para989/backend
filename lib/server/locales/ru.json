@@ -29,7 +29,7 @@
   "url-is-used": "Указанная ссылка уже используется.",
   "home": "Главная",
   "add-products": "Сначала добавьте товары",
-  "group-is-not-empty": "Группа содержит подгруппы или товары",
+  "group-is-not-empty": "Категория содержит вложенные категории или товары.",
   "required-fields": "Заполните обязательные поля.",
   "badbrowser-title": "Ваш браузер устарел",
   "badbrowser-message": "Ваш браузер безнадежно устарел или не поддерживает JavaScript или Cookies.<br>Включите поддержку JavaScript или обновите браузер.",
@@ -179,7 +179,7 @@
   "agreement-not-found": "Соглашение не найдено.",
   "domain-not-found": "Домен не найден.",
   "city-not-found": "Город не найден.",
-  "group-not-found": "Группа не найдена.",
+  "group-not-found": "Категория не найдена.",
   "payment-method-not-found": "Способ оплаты не найден.",
   "promotion-not-found": "Промоакция не найдена.",
   "place-not-found": "Точка продаж не найдена.",
@@ -247,5 +247,6 @@
   "role-is-used": "Роль используется.",
   "admin": "Администратор",
   "manager": "Менеджер",
-  "operator": "Оператор"
+  "operator": "Оператор",
+  "nothing-found": "Ничего не найдено."
 }
