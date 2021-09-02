@@ -241,7 +241,12 @@
   "desired-time": "Желаемое время",
   "mystery-shopper-title": "Тайный покупатель",
   "mystery-shopper-message": "Теперь вы наш тайный покупатель. С нетерпение ждём вашей оценки!",
+
   "mystery-shopper-pending": "Ваша заявка находится на рассмотрении, ожидайте.",
+  "mystery-shopper-verifying": "Ваша проверка находится на рассмотрении, ожидайте.",
+  "mystery-shopper-rejected": "Ваша проверка отклонена.",
+  "mystery-shopper-finished": "Ваша проверка успешно принята, спасибо!",
+
   "function-disabled": "Функция отключена.",
   "untitled": "Без названия",
   "role-is-used": "Роль используется.",
