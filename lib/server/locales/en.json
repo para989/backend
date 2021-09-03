@@ -250,5 +250,6 @@
   "admin": "Admin",
   "manager": "Manager",
   "operator": "Operator",
-  "nothing-found": "Nothing found."
+  "nothing-found": "Nothing found.",
+  "gift": "Gift"
 }
